@@ -71,12 +71,6 @@ if  n / 1 == 1 {   // to prove that 1 is deficient as 1 cannot divide by 1. The 
         
         
         
-
-
-
-
-
-
 if n == add {
     print(n, "is a perfect")
 } else if n > add {
